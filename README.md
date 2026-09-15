@@ -1,16 +1,48 @@
-# React + Vite
+# 🌐 Personal Portfolio - Sneha Sutar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio repository! This project showcases my skills, projects, background, and contact details as a **Software Developer**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+Check out the live portfolio: 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack & Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This portfolio was built using modern web development practices and tools:
+
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
+- **Icons & UI Elements:** Lucide React / FontAwesome
+- **Version Control:** Git & GitHub
+- **Deployment:** Vercel / Netlify / GitHub Pages
+
+---
+
+## ✨ Features
+
+- **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
+- **About Me Section:** Insights into my computer engineering background and goals.
+- **Interactive Skills Section:** Visual representation of my tech stack (Frontend, Backend, Database, DevOps, etc.).
+- **Projects Showcase:** Highlights of my recent work including direct links to live projects and code.
+- **Contact Form:** Integrated contact section for easy communication.
+
+---
+
+## 📂 Featured Projects
+
+- **Cafe Website:** A modern, responsive web application for cafe browsing and menu exploration.
+- **Stopwatch App:** A clean, functional web-based stopwatch utility.
+- **AI Driven Urban Sanitation Platform:** An innovative platform aimed at resolving urban sanitation challenges.
+
+---
+
+## 🛠️ Local Development & Setup
+
+To run this React project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/sutarsneha858-debug/My_Portfolio.git
